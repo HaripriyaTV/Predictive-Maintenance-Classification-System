@@ -1,4 +1,4 @@
-# Customer-Segmentation-Clustering-Engine
+# Predictive-Maintenance-Classification-System
 A dig into data and irrigation - Understanding India's Irrigation Potential through Exploratory Data Analysis.
 
 Exploratory Data Analysis (EDA) is the first step in the data analysis process.  Here, I have explored the data obtained by querying  United Nation's AQUASTAT database. The AQUASTAT database is created by Food and Agriculture Organization of the United Nations. FAO offers data, metadata, reports, country profiles, river basin profiles, regional analyses, maps, tables, spatial data, guidelines, and other tools on:
